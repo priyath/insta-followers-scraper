@@ -5,8 +5,6 @@
 1. Clone and install the InstaPy library
 https://github.com/timgrossmann/InstaPy
 
-pip install .
-
 2. Download and install the appropriate chromedriver for your environment
 http://chromedriver.chromium.org/downloads
 
