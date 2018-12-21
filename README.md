@@ -12,9 +12,9 @@ http://chromedriver.chromium.org/downloads
 
 1. Execute grab.py using the following command:
 
-python grab.py --account accountname --percentage percentageoffollowerstoscrape
+`python grab.py --account accountname --percentage percentageoffollowerstoscrape`
 
-eg: python grab.py --account kingjames --percentage 25 will scrape 25% of the followers from the kingjames instagram account
+eg: `python grab.py --account kingjames --percentage 25` will scrape 25% of the followers from the kingjames instagram account
 
 
 
